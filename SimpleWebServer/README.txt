@@ -1,0 +1,2 @@
+- Verify IP assigned. Put the right one in the uploadImage method of ViewController
+- Chang server.py: use the same IP address when starting the web server (HTTPServer)
